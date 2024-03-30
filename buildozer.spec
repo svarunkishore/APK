@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3==3.11.5,hostpython3==3.11.5,kivy,pandas,numpy,tensorflow,androguard==3.3.5,pillow
+requirements = python3,hostpython3,kivy,pandas,numpy,tensorflow,androguard==3.3.5
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
